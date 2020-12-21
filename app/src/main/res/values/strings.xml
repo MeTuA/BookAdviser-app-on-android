@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book Adviser</string>
+    <string name="ids_book_names">Press "Find!" button!</string>
+    <string name="ids_find_book">Find!</string>
+    <string-array name="ids_genres">
+        <item>Science</item>
+        <item>Fantasy</item>
+        <item>Horror</item>
+    </string-array>
+</resources>
